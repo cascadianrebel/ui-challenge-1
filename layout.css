@@ -1,0 +1,11 @@
+*{
+  box-sizing: border-box;
+}
+header {
+  width: 100%;
+  background-color: gray;
+}
+
+main {
+  width: 100%;
+}

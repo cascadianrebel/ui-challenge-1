@@ -10,6 +10,8 @@ Ensure that the screen responds to window size to match the mobile view comp.
 CSS and HTML are the only languages used
 
 ## Change Log
+10:15am 4/16/18 Added HTML Scaffolding and comp images
+
 
 
 ## Credits and Collaborations
