@@ -12,8 +12,5 @@ CSS and HTML are the only languages used
 ## Change Log
 10:15am 4/16/18 Added HTML Scaffolding and comp images
 
+12:10pm 4/16/18 finalized CSS scaffolding
 
-
-## Credits and Collaborations
-<!-- Give credit (and a link) to other people or resources that helped you build this application. -->
--->
